@@ -1,0 +1,5 @@
+/Users/user/Projects/UserCheck/UserCheck/obj/Debug/net6.0/UserCheck.csproj.AssemblyReference.cache
+/Users/user/Projects/UserCheck/UserCheck/obj/Debug/net6.0/UserCheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/UserCheck/UserCheck/obj/Debug/net6.0/UserCheck.AssemblyInfoInputs.cache
+/Users/user/Projects/UserCheck/UserCheck/obj/Debug/net6.0/UserCheck.AssemblyInfo.cs
+/Users/user/Projects/UserCheck/UserCheck/obj/Debug/net6.0/UserCheck.csproj.CoreCompileInputs.cache
